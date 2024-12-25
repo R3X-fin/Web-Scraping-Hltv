@@ -4,6 +4,7 @@ The code scrapes hltv website on the chosen date and looks at every game that ha
 For The Code To Work. You Will Need To Run These In Shell
 
 pip install cloudscraper
+
 pip install beautifulsoup
 
 
